@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html{
+scroll-behavior:smooth;
+font-family: 'Raleway', sans-serif;
+}
+body{
+   background-color: #eee;
+}
+ .custom-img{
+    background-image: url('../public/photographer.jpg');
+ }
+ .attia{
+   font-family: italic;
+ }
